@@ -1,5 +1,9 @@
 # Tiny Chess Engine — make.fun tiny-chess-01
 
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/Ramadan323/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/Ramadan323/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
 Original 0x88 chess engine in a single `main.py` (3,209 bytes, lzma payload
 packed with the kit's `makefun compress`, limit 4,096 bytes). The readable
 source it was packed from is kept with the submission files, uncommitted.
@@ -12,3 +16,5 @@ source it was packed from is kept with the submission files, uncommitted.
 
 Local practice trials (kit env server): Elo ~1174 mean over 3 trials
 (1364 / 1451 / 708), above the 1154 final-entry floor.
+
+Entered in make.fun's [Build the strongest chess engine in 4 KB of Python](https://make.fun/bounty/tiny-chess-01) bounty ($500 in USDC).
