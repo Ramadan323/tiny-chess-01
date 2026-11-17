@@ -1,6 +1,8 @@
 # Tiny Chess Engine — make.fun tiny-chess-01
 
-Original 0x88 chess engine in a single `main.py` (<= 4096 bytes, lzma payload).
+Original 0x88 chess engine in a single `main.py` (3,209 bytes, lzma payload
+packed with the kit's `makefun compress`, limit 4,096 bytes). The readable
+source it was packed from is kept with the submission files, uncommitted.
 
 - Negamax + alpha-beta, quiescence with check evasions
 - Transposition table, killer-move ordering, repetition-aware search
